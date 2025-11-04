@@ -39,3 +39,7 @@
 
 name = "Raja"
 print("a" in name)
+
+
+
+iutjuyryhjrf=56
